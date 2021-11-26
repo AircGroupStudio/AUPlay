@@ -1,0 +1,6 @@
+future==0.18.2
+pygame==2.0.1
+tinytag==0.18.0
+PyAudio==0.2.11
+setuptools==49.2.1
+Cython==0.29.24
